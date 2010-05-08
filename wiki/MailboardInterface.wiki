@@ -1,6 +1,4 @@
 #labels Amstrad,Mailboard,Cable,Scan,Codes,Protocol,PS2
-#PS/2 Interface cable
-
 = Introduction =
 
 This page will give detailed information on how the Amstrad Mailboard interface was designed.
