@@ -13,7 +13,7 @@ The Mailboard is directly compatible with the PS/2 specification. The pins are a
 
 ||PIN||SIGNAL||
 ||1||GND||
-||2||DAT||
+||2||DATA||
 ||3||CLOCK||
 ||4||+5V||
 
