@@ -26,7 +26,7 @@ The Mailboard is directly compatible with the PS/2 specification. The pins are a
 
 ||BIT||||DATA||
 ||Start||-||0||
-||Data||s||0||
+||Data||s||D0||
 ||Data||c||D1||
 ||Data||a||D2||
 ||Data||n||D3||
