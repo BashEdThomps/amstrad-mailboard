@@ -1,0 +1,84 @@
+clear Shift
+clear Lock
+clear Control
+clear Mod1
+clear Mod2
+clear Mod3
+clear Mod4
+clear Mod5
+
+
+keycode 90 = F1 F1
+keycode 89 = F2 F2
+keycode 18 = F3 F3
+keycode 63 = F4 F4
+keycode 77 = F5 F5
+keycode 88 = F6 F6 
+keycode 87 = F7 F7 
+keycode 52 = F8 F8 
+keycode 55 = F9 F9 
+keycode 38 = F10 F10
+keycode 24 = F11 F11
+
+keycode 91 = Escape Escape Tab
+keycode 85 = 1 exclam less 
+keycode 84 = 2 quotedbl greater
+keycode 83 = 3 sterling EuroSign
+keycode 53 = 4 dollar numbersign
+keycode 39 = 5 percent ampersand
+keycode 25 = 6 equal plus
+keycode 11 = 7 bracketleft bracketright
+keycode 86 = 8 asterisk braceleft
+keycode 81 = 9 parenleft parenright
+keycode 80 = 0 minus underscore
+keycode 79 = BackSpace Delete
+
+keycode 54 = q Q q
+keycode 40 = w W w
+keycode 26 = e E e
+keycode 12 = r R degree
+keycode 48 = t T asciitilde
+keycode 51 = y Y y
+keycode 23 = u U u
+keycode 49 = i I i
+keycode 56 = o O o
+keycode 42 = p P p
+keycode 28 = Return Return Return
+
+keycode 57 = a A a
+keycode 43 = s S s
+keycode 29 = d D d
+keycode 15 = f F g
+keycode 65 = g G grave
+keycode 35 = h H asciicircum 
+keycode 71 = j J j
+keycode 9 = k K k
+keycode 58 = l L l
+keycode 44 = at apostrophe backslash
+
+keycode 30 = Shift_L
+keycode 16 = z Z z
+keycode 20 = x X x
+keycode 34 = c C c
+keycode 72 = v V v
+keycode 67 = b B b
+keycode 59 = n N n
+keycode 45 = m M m
+keycode 31 = period question slash
+keycode 17 = Up Up Prior
+keycode 21 = Shift_R
+
+keycode 73 = Control_L
+keycode 68 = Alt_L
+keycode 60 = Mode_switch
+keycode 46 = space space space
+keycode 32 = comma semicolon colon
+keycode 10 = Left Left Left
+keycode 14 = Down Down Next
+keycode 76 = Right Right Right
+
+add shift = Shift_R
+add shift = Shift_L
+add control = Control_L
+add mod2    = Mode_switch
+add mod4    = Alt_L
